@@ -1,25 +1,25 @@
 ![Banner](Banner%20Github%20Abraham.png)
-### :hammer_and_wrench: 👋🏼 ¡Hola! Soy Abraham Villalobos
+### 👋🏼 ¡Hola! Soy Abraham Villalobos
 
 🎓 Científico de Datos Junior | 📍 CDMX, México  
 🔍 Apasionado por descubrir insights a partir de datos y resolver problemas con machine learning.  
 
 ---
 
-### :hammer_and_wrench: 🚀 Sobre mí
+###  🚀 Sobre mí
 
 Soy egresado de un bootcamp intensivo en Ciencia de Datos, donde desarrollé proyectos que abarcan limpieza de datos, análisis exploratorio, regresión, clasificación y predicción con series temporales. Me motiva aprender continuamente y trabajar en equipo para crear soluciones de valor real con datos.
 
 ---
 
-### :hammer_and_wrench: 🛠️ Tecnologías y herramientas
+###  🛠️ Tecnologías y herramientas
 
 - Lenguajes: `Python`, `SQL`
 - Bibliotecas: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`, `statsmodels`, `XGBoost`, `LightGBM`
 - ML/IA: `Regresión`, `Clasificación`, `Reducción de Dimensiones`, `NLP`, `Series de Tiempo`
 - Otras herramientas: `Jupyter`, `VS Code`, `Google Colab`, `Git/GitHub`,  `Excel`
 
-### :hammer_and_wrench: Lenguajes y herramientas :
+###  Lenguajes y herramientas :
 
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
@@ -32,7 +32,7 @@ Soy egresado de un bootcamp intensivo en Ciencia de Datos, donde desarrollé pro
 
 ---
 
-### :hammer_and_wrench: 📂 Proyectos destacados
+###  📂 Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
@@ -45,7 +45,7 @@ Soy egresado de un bootcamp intensivo en Ciencia de Datos, donde desarrollé pro
 
 ---
 
-### :hammer_and_wrench: 📫 Contáctame
+###  📫 Contáctame
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abraham-pvillalobos)
 
